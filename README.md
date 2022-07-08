@@ -2,9 +2,9 @@
 
 
 **I'm Kayode Philip, I code and solve bussiness logics. With my Backend experience, I'm interested in solving problems.
-**Work in a team to share and learn with my team. I'm ambitiouss and open to chanlenges.
+Work in a team to share and learn with my team. I'm ambitiouss and open to chanlenges.
 
-Here are some thinhs to know about me:
+Here are some things to know about me:
 
 - 🔭 I’m currently working on ... Blog web app
 - 🌱 I’m currently learning ... .NET frameworks
